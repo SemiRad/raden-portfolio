@@ -2,7 +2,7 @@
   <div class="w-full h-full p-20" id="main">
     <div class="w-full h-full flex justify-center items-center">
       <div class="flex flex-col justify-center items-center">
-        <img src="/public/img/og.png" alt="Raden" class="w-60 rounded-full mb-5" />
+        <img src="/img/og.png" alt="Raden" class="w-60 rounded-full mb-5" />
         <div class="font-extrabold text-6xl font-outfit text-center max-sm:text-xl">
           RADEN ACOMPAÑADO
         </div>
