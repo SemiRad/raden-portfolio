@@ -2,16 +2,16 @@
   <div class="h-screen" id="main">
     <div class="flex w-full mt-20">
       <div
-        class="flex flex-col justify-center items-center text-center w-full uppercase font-outfit font-bold text-8xl"
+        class="flex flex-col justify-center items-center text-center w-full uppercase font-outfit font-bold text-8xl max-md:text-4xl"
         id="text"
       >
         Raden Develops<br />
         <span class="text-zinc-950" id="dreamText">Realizing Dreams</span>
-        <div class="text-2xl mt-20 gap-8 flex flex-row">
+        <div class="text-2xl mt-20 gap-8 flex flex-row max-md:text-sm">
           <div>front-end</div>
-          <div class="text-4xl">&#8226;</div>
+          <div class="text-4xl max-md:text-sm">&#8226;</div>
           <div>back-end</div>
-          <div class="text-4xl">&#8226;</div>
+          <div class="text-4xl max-md:text-sm">&#8226;</div>
           <div>ui/ux</div>
         </div>
       </div>
