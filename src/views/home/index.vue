@@ -1,7 +1,11 @@
 <template>
-  <div></div>
+  <div>
+    <Content />
+  </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup>
+import Content from '@/components/home/content.vue'
+</script>
 
 <style scoped></style>
