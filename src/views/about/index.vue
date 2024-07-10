@@ -4,6 +4,6 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import Content from '@/components/about/content.vue'
 </script>
